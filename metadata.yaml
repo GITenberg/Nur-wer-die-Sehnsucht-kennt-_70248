@@ -1,0 +1,29 @@
+_repo: Nur-wer-die-Sehnsucht-kennt-_70248
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boy-Ed, Ida
+    alias: Ed, Ida Cornelia Ernestina
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '34124'
+    url: http://www.gutenberg.org/2009/agents/34124
+description: ''
+gutenberg_issued: '2023-03-09'
+identifiers:
+  gutenberg: '70248'
+language: de
+pgterms:marc904: https://archive.org/details/nurwerdiesehnsuc00boye
+pgterms:marc905: 20181025045051boyed
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aGermany :$bJ. G. Cotta''sche Buchhandlung Nachfolger, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nur wer die Sehnsucht kennt ...
+url: http://www.gutenberg.org/ebooks/70248
